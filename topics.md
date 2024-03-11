@@ -29,6 +29,7 @@
 - [docker](#docker)
 - [electron](#electron)
 - [emoji](#emoji)
+- [english](#english)
 - [flutter](#flutter)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -220,6 +221,10 @@
 ## emoji 
 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+
+## english 
+
+- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 
 ## flutter 
 
