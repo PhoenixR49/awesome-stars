@@ -51,7 +51,7 @@
 
 ## Go 
 
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ AI + BuildKit = AIKit: Build and deploy open-source LLMs easily!
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ AI + BuildKit = AIKit: Build, fine-tune and deploy open-source LLMs easily!
 
 ## HTML 
 
@@ -66,6 +66,7 @@
 
 ## JavaScript 
 
+- [BrainJS/brain.js-examples](https://github.com/BrainJS/brain.js-examples) - Brain.js Examples in Typescript and Javascript
 - [SpruceGabriela/snake-the-game](https://github.com/SpruceGabriela/snake-the-game) - A simple JS snake game
 - [cazala/synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
@@ -190,7 +191,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [smart-on-fhir/smart-scheduling-links](https://github.com/smart-on-fhir/smart-scheduling-links) - Clinical Appointment Slot Discovery
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [gregordr/ImageStore](https://github.com/gregordr/ImageStore) - Open source google photos alternative!
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 
