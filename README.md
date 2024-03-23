@@ -124,6 +124,7 @@
 
 ## Python 
 
+- [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
