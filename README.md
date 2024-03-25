@@ -53,7 +53,7 @@
 ## Go 
 
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ AI + BuildKit = AIKit: Build, fine-tune and deploy open-source LLMs easily!
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Build, fine-tune and deploy open-source LLMs easily!
 
 ## HTML 
 
@@ -125,6 +125,8 @@
 
 ## Python 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
