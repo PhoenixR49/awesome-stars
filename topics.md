@@ -49,6 +49,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [js](#js)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
@@ -86,6 +87,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
+- [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 
@@ -342,6 +344,10 @@
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
+## js 
+
+- [zyronon/douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+
 ## kotlin 
 
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
@@ -426,6 +432,7 @@
 
 ## others 
 
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [pjaspinski/youtube-dl-card](https://github.com/pjaspinski/youtube-dl-card) - Custom card for HomeAssistant that allows downloading videos using youtube-dl to a remote machine.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
@@ -602,6 +609,10 @@
 ## visual-studio-code 
 
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
+
+## vue 
+
+- [zyronon/douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
 
 ## web 
 
