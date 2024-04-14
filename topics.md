@@ -84,6 +84,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [software](#software)
+- [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -600,6 +601,11 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## stable-diffusion 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 
 ## svelte 
 
