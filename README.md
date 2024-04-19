@@ -214,7 +214,7 @@
 
 ## Vue 
 
-- [zyronon/douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+- [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 
 
