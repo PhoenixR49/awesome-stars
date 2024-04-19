@@ -375,7 +375,7 @@
 
 ## js 
 
-- [zyronon/douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+- [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
 
 ## kotlin 
 
@@ -680,7 +680,7 @@
 ## vue 
 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
-- [zyronon/douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+- [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
 
 ## web 
 
