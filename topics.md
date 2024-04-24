@@ -505,7 +505,6 @@
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration that allows you to control your house using an LLM running locally
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [avenger11/HomeOS](https://github.com/avenger11/HomeOS) - This is my dashboard for Home Assistant
 - [avenger11/Apple-HomePlay](https://github.com/avenger11/Apple-HomePlay) - Custom Apple theme and configuration for Home Assistant
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
