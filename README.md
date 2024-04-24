@@ -201,7 +201,6 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC!
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
