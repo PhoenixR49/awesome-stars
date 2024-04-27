@@ -48,7 +48,6 @@
 
 - [bradsjm/hassio-addons](https://github.com/bradsjm/hassio-addons) - Home Assistant Add-ons
 - [rhasspy/hassio-addons](https://github.com/rhasspy/hassio-addons) - Add-ons for Home Assistant's Hass.IO
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 
 ## Go 
@@ -183,6 +182,7 @@
 ## Shell 
 
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 
 ## Svelte 
