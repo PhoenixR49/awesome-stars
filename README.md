@@ -17,6 +17,7 @@
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Python](#python)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -127,6 +128,10 @@
 - [daledavies/jump](https://github.com/daledavies/jump) - Jump is a self-hosted startpage and real-time status page for your server designed to be simple, stylish, fast and secure.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 
+## Pascal 
+
+- [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+
 ## Python 
 
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -205,7 +210,7 @@
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [notclickable-jordan/starbase-80](https://github.com/notclickable-jordan/starbase-80) - A nice Docker homepage
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [smart-on-fhir/smart-scheduling-links](https://github.com/smart-on-fhir/smart-scheduling-links) - Clinical Appointment Slot Discovery
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -214,7 +219,7 @@
 
 ## Vue 
 
-- [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
+- [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 
 
