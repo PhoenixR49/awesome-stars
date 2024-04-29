@@ -94,6 +94,7 @@
 
 ## Kotlin 
 
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
 - [jd1378/otphelper](https://github.com/jd1378/otphelper) - open-source application that can copy OTP and codes from notifications automatically for you
@@ -134,6 +135,7 @@
 
 ## Python 
 
+- [iprak/yahoofinance](https://github.com/iprak/yahoofinance) - Home Assistant component which allows you to get stock updates from Yahoo finance.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -192,7 +194,7 @@
 
 ## Svelte 
 
-- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR compliant, self-hosted CAPTCHA alternative.
+- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR compliant, self-hosted CAPTCHA alternative. Now with API and a Spam Filter!
 - [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop) - Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux
 
 ## TypeScript 
