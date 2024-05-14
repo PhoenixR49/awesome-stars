@@ -320,6 +320,7 @@
 
 ## home-assistant 
 
+- [mjoshd/hyperhdr-ha](https://github.com/mjoshd/hyperhdr-ha) - HyperHDR custom component for Home Assistant
 - [iprak/yahoofinance](https://github.com/iprak/yahoofinance) - Home Assistant component which allows you to get stock updates from Yahoo finance.
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
 - [Vaskivskyi/ha-analytics](https://github.com/Vaskivskyi/ha-analytics) - Custom HA analytics tools and generated data
