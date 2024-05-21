@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - ⏭️ Skip YouTube ads and sponsorships on all local Google Cast devices
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
