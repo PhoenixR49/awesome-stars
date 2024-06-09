@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - ⏭️ Skip YouTube ads and sponsorships on all local Google Cast devices
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -113,6 +114,7 @@
 
 ## Others 
 
+- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for Pronote.
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama
 - [userbradley/BeReal](https://github.com/userbradley/BeReal) - How does BeReal work (Under the hood)
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -139,6 +141,7 @@
 
 ## Python 
 
+- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [mjoshd/hyperhdr-ha](https://github.com/mjoshd/hyperhdr-ha) - HyperHDR custom component for Home Assistant
 - [iprak/yahoofinance](https://github.com/iprak/yahoofinance) - Home Assistant component which allows you to get stock updates from Yahoo finance.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -183,7 +186,6 @@
 
 ## Rust 
 
-- [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 
@@ -227,6 +229,7 @@
 
 ## Vue 
 
+- [bokub/home-assistant-extension](https://github.com/bokub/home-assistant-extension) - 📌 Home Assistant browser extension
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
