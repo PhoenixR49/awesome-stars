@@ -71,6 +71,7 @@
 
 ## JavaScript 
 
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
 - [pjaspinski/youtube-dl-card](https://github.com/pjaspinski/youtube-dl-card) - Custom card for HomeAssistant that allows downloading videos using youtube-dl to a remote machine.
@@ -122,7 +123,7 @@
 - [Rbillon59/home-assistant-addons](https://github.com/Rbillon59/home-assistant-addons) - Repository of self made addons
 - [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
 - [HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools) - OSINT open-source tools catalog
-- [fdioni/blacklist-words-en](https://github.com/fdioni/blacklist-words-en) - 
+- [gfdioni/blacklist-words-en](https://github.com/gfdioni/blacklist-words-en) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## PHP 
@@ -142,6 +143,8 @@
 
 ## Python 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
+- [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [mjoshd/hyperhdr-ha](https://github.com/mjoshd/hyperhdr-ha) - HyperHDR custom component for Home Assistant
 - [iprak/yahoofinance](https://github.com/iprak/yahoofinance) - Home Assistant component which allows you to get stock updates from Yahoo finance.
