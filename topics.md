@@ -559,6 +559,7 @@
 
 ## others 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - ⏭️ Skip YouTube ads and sponsorships on all local Google Cast devices
