@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [AkA57/liveboxtvuhd](https://github.com/AkA57/liveboxtvuhd) - Livebox TV UHD custom component for Home Assistant
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
