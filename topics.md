@@ -565,6 +565,7 @@
 
 ## others 
 
+- [AkA57/liveboxtvuhd](https://github.com/AkA57/liveboxtvuhd) - Livebox TV UHD custom component for Home Assistant
 - [jdeath/homeassistant-addons](https://github.com/jdeath/homeassistant-addons) - 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama
