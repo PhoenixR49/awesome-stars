@@ -562,6 +562,7 @@
 
 ## others 
 
+- [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - My personal Homeassistant Add-Ons. For more details have a look at the sub-folders.
 - [philipp-luettecke/tiktoktts](https://github.com/philipp-luettecke/tiktoktts) - TikTok TTS custom_component for Home Assistant.
 - [AkA57/liveboxtvuhd](https://github.com/AkA57/liveboxtvuhd) - Livebox TV UHD custom component for Home Assistant
 - [jdeath/homeassistant-addons](https://github.com/jdeath/homeassistant-addons) - 
