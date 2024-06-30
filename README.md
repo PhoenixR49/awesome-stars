@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [philipp-luettecke/tiktoktts](https://github.com/philipp-luettecke/tiktoktts) - TikTok TTS custom_component for Home Assistant.
 - [AkA57/liveboxtvuhd](https://github.com/AkA57/liveboxtvuhd) - Livebox TV UHD custom component for Home Assistant
