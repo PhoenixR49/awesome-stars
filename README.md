@@ -73,6 +73,7 @@
 
 ## JavaScript 
 
+- [somiibo/somiibo-microservice-template](https://github.com/somiibo/somiibo-microservice-template) - A free social media automation platform that organically grows your online presence and gets you more followers.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
@@ -132,6 +133,7 @@
 
 ## PHP 
 
+- [BlondelSeumo/Social-Media-Marketing-Platform](https://github.com/BlondelSeumo/Social-Media-Marketing-Platform) - Mainly this is a visual drag and drop Flow Builder based chatbot for Facebook Messenger and Instagram DM. It also comprises a feature for auto comment, auto-reply to comment, and private reply for Fac
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mosparo/mosparo](https://github.com/mosparo/mosparo) - The modern spam protection. Protects your forms from spam by simply checking the content. Open source, Free to use, Accessible, and Self-Hosted.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
