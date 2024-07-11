@@ -248,7 +248,7 @@
 
 ## dart 
 
-- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for Pronote.
+- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for PRONOTE.
 
 ## deep-learning 
 
@@ -414,7 +414,7 @@
 ## javascript 
 
 - [somiibo/somiibo-microservice-template](https://github.com/somiibo/somiibo-microservice-template) - A free social media automation platform that organically grows your online presence and gets you more followers.
-- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for Pronote.
+- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for PRONOTE.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -790,7 +790,7 @@
 
 ## typescript 
 
-- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for Pronote.
+- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for PRONOTE.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [notclickable-jordan/starbase-80](https://github.com/notclickable-jordan/starbase-80) - A nice Docker homepage
