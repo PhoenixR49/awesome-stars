@@ -367,6 +367,8 @@
 
 ## home-assistant 
 
+- [kubawolanin/ha-reaper](https://github.com/kubawolanin/ha-reaper) - Reaper DAW custom integration for Home Assistant
+- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [bokub/home-assistant-extension](https://github.com/bokub/home-assistant-extension) - 📌 Home Assistant browser extension
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
@@ -419,7 +421,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -559,7 +561,7 @@
 
 ## operating-system 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 ## osint 
 
@@ -673,6 +675,7 @@
 
 ## python 
 
+- [kubawolanin/ha-reaper](https://github.com/kubawolanin/ha-reaper) - Reaper DAW custom integration for Home Assistant
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
