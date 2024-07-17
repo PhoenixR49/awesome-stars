@@ -120,7 +120,7 @@
 
 ## Others 
 
-- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for PRONOTE.
+- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - [REWRITING] A purrfect API wrapper for PRONOTE.
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama
 - [userbradley/BeReal](https://github.com/userbradley/BeReal) - How does BeReal work (Under the hood)
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -150,6 +150,7 @@
 
 ## Python 
 
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [kubawolanin/ha-reaper](https://github.com/kubawolanin/ha-reaper) - Reaper DAW custom integration for Home Assistant
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant
