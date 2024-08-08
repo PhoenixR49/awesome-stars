@@ -75,6 +75,7 @@
 
 ## JavaScript 
 
+- [wooorm/dictionaries](https://github.com/wooorm/dictionaries) - Hunspell dictionaries in UTF-8
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
 - [somiibo/somiibo-microservice-template](https://github.com/somiibo/somiibo-microservice-template) - A free social media automation platform that organically grows your online presence and gets you more followers.
@@ -213,6 +214,7 @@
 
 ## Rust 
 
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 
@@ -222,6 +224,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - My personal Homeassistant Add-Ons. For more details have a look at the sub-folders.
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
