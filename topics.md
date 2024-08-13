@@ -123,6 +123,7 @@
 
 ## ai 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
@@ -179,6 +180,7 @@
 
 ## artificial-intelligence 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
 
 ## automation 
@@ -618,6 +620,7 @@
 
 ## others 
 
+- [getnamo/Llama-Unreal](https://github.com/getnamo/Llama-Unreal) - Llama.cpp plugin for Unreal Engine 5
 - [liuhh02/web-omr](https://github.com/liuhh02/web-omr) - Web-based Optical Music Recognition tool that translates musical notes on monophonic scores to ABC notation and annotates the ABC notes onto the music score to facilitate the process of learning music
 - [itspoma/audio-fingerprint-identifying-python](https://github.com/itspoma/audio-fingerprint-identifying-python) - The Shazam-similar app, that identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform
 - [bmoquist/Shazam](https://github.com/bmoquist/Shazam) - Music Identification Program based on Shazam's methods
