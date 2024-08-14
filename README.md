@@ -157,7 +157,7 @@
 
 ## Python 
 
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [itspoma/audio-fingerprint-identifying-python](https://github.com/itspoma/audio-fingerprint-identifying-python) - The Shazam-similar app, that identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform
 - [bmoquist/Shazam](https://github.com/bmoquist/Shazam) - Music Identification Program based on Shazam's methods
 - [Zarathustra2/TradeRepublicApi](https://github.com/Zarathustra2/TradeRepublicApi) - Unofficial trade republic API
