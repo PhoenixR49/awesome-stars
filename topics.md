@@ -17,6 +17,7 @@
 - [awesome-list](#awesome-list)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome-extension](#chrome-extension)
@@ -217,6 +218,10 @@
 ## bot 
 
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
+
+## c-plus-plus 
+
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 
 ## chatgpt 
 
@@ -690,7 +695,7 @@
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration & Model to control your smart home using a Local LLM
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [avenger11/HomeOS](https://github.com/avenger11/HomeOS) - This is my dashboard for Home Assistant
 - [avenger11/Apple-HomePlay](https://github.com/avenger11/Apple-HomePlay) - Custom Apple theme and configuration for Home Assistant
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
