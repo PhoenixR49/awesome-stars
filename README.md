@@ -8,6 +8,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
@@ -47,6 +48,10 @@
 - [avenger11/Apple-HomePlay](https://github.com/avenger11/Apple-HomePlay) - Custom Apple theme and configuration for Home Assistant
 - [cristianmiranda/mediabox](https://github.com/cristianmiranda/mediabox) - 🐳 Docker based MEDIABOX 📺
 - [arnoclr/tac-material](https://github.com/arnoclr/tac-material) - Tarteaucitron (GPDR consent & cookie manager) material design theme
+
+## Clojure 
+
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
 
 ## Dockerfile 
 
