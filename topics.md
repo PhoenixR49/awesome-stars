@@ -57,6 +57,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -449,6 +450,12 @@
 ## http 
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [yezz123/SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account 🛠
 
 ## ios 
 
