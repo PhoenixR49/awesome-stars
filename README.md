@@ -51,7 +51,7 @@
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 
 ## Dockerfile 
 
