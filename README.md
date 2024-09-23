@@ -43,6 +43,7 @@
 
 ## CSS 
 
+- [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
 - [avenger11/HomeOS](https://github.com/avenger11/HomeOS) - This is my dashboard for Home Assistant
 - [avenger11/Apple-HomePlay](https://github.com/avenger11/Apple-HomePlay) - Custom Apple theme and configuration for Home Assistant
