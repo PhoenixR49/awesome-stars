@@ -416,6 +416,7 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 
 ## home-assistant 
