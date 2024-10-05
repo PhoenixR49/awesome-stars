@@ -190,7 +190,7 @@
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [mjoshd/hyperhdr-ha](https://github.com/mjoshd/hyperhdr-ha) - HyperHDR custom component for Home Assistant
 - [iprak/yahoofinance](https://github.com/iprak/yahoofinance) - Home Assistant component which allows you to get stock updates from Yahoo finance.
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
