@@ -112,6 +112,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [serverless](#serverless)
 - [software](#software)
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
@@ -400,6 +401,7 @@
 
 ## hacktoberfest 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -680,6 +682,8 @@
 
 ## others 
 
+- [kahrendt/microWakeWord](https://github.com/kahrendt/microWakeWord) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
+- [esphome/micro-wake-word-models](https://github.com/esphome/micro-wake-word-models) - 
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
 - [junku901/dnn](https://github.com/junku901/dnn) - Deep learning library for node.js. (Includes Logistic-Regression, MLP, RBM, DBN, CRBM, CDBN)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
@@ -891,6 +895,10 @@
 ## server 
 
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
+
+## serverless 
+
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## software 
 
