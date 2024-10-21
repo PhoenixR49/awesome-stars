@@ -30,9 +30,11 @@
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [css](#css)
+- [dart](#dart)
 - [data-structures](#data-structures)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [devops](#devops)
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
@@ -41,6 +43,7 @@
 - [english](#english)
 - [finance](#finance)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [frontend](#frontend)
 - [game-development](#game-development)
@@ -69,6 +72,7 @@
 - [language](#language)
 - [laravel](#laravel)
 - [llm](#llm)
+- [low-code](#low-code)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [material-design](#material-design)
@@ -97,6 +101,7 @@
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [programming](#programming)
+- [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -106,6 +111,7 @@
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
+- [robotics](#robotics)
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
@@ -114,6 +120,7 @@
 - [serverless](#serverless)
 - [software](#software)
 - [stable-diffusion](#stable-diffusion)
+- [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -131,6 +138,8 @@
 
 ## ai 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
+- [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
@@ -195,6 +204,7 @@
 
 ## automation 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [somiibo/somiibo-microservice-template](https://github.com/somiibo/somiibo-microservice-template) - A free social media automation platform that organically grows your online presence and gets you more followers.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -271,6 +281,7 @@
 
 ## computer-vision 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [johnolafenwa/DeepStack](https://github.com/johnolafenwa/DeepStack) - The World's Leading Cross Platform AI Engine for Edge Devices
 
@@ -291,6 +302,10 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
+## dart 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
 ## data-structures 
 
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -308,6 +323,10 @@
 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
+## devops 
+
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+
 ## discord 
 
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
@@ -318,6 +337,7 @@
 
 ## docker 
 
+- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
@@ -347,8 +367,13 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+## flutter-apps 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## font 
 
@@ -356,6 +381,7 @@
 
 ## frontend 
 
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [somiibo/somiibo-microservice-template](https://github.com/somiibo/somiibo-microservice-template) - A free social media automation platform that organically grows your online presence and gets you more followers.
 
 ## game-development 
@@ -380,6 +406,7 @@
 
 ## go 
 
+- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
@@ -399,6 +426,9 @@
 
 ## hacktoberfest 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
@@ -444,6 +474,7 @@
 
 ## html 
 
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## html5 
@@ -471,6 +502,7 @@
 
 ## java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 
@@ -530,6 +562,7 @@
 
 ## llm 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -544,8 +577,13 @@
 - [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui) - Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 
+## low-code 
+
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+
 ## machine-learning 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
@@ -600,6 +638,7 @@
 
 ## nextjs 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC!
@@ -644,6 +683,7 @@
 
 ## open-source 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [jd1378/otphelper](https://github.com/jd1378/otphelper) - open-source application that can copy OTP and codes from notifications automatically for you
@@ -677,6 +717,9 @@
 
 ## others 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [kahrendt/microWakeWord](https://github.com/kahrendt/microWakeWord) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
 - [esphome/micro-wake-word-models](https://github.com/esphome/micro-wake-word-models) - 
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
@@ -793,12 +836,18 @@
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 
+## project-management 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
 ## pwa 
 
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 
 ## python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [shazamio/ShazamIO](https://github.com/shazamio/ShazamIO) - 🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.8+ with asyncio and aiohttp.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [kubawolanin/ha-reaper](https://github.com/kubawolanin/ha-reaper) - Reaper DAW custom integration for Home Assistant
@@ -840,12 +889,14 @@
 
 ## react 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [notclickable-jordan/starbase-80](https://github.com/notclickable-jordan/starbase-80) - A nice Docker homepage
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 
 ## reactjs 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## rest-api 
@@ -857,6 +908,10 @@
 
 - [userbradley/BeReal](https://github.com/userbradley/BeReal) - How does BeReal work (Under the hood)
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+
+## robotics 
+
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## rust 
 
@@ -900,6 +955,10 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
+## support 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
 ## svelte 
 
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -920,6 +979,7 @@
 
 ## tailwindcss 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 
 ## tensorflow 
@@ -937,6 +997,7 @@
 
 ## typescript 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for PRONOTE.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
@@ -959,6 +1020,7 @@
 
 ## web 
 
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
