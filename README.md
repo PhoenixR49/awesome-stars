@@ -97,7 +97,6 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [junku901/dnn](https://github.com/junku901/dnn) - Deep learning library for node.js. (Includes Logistic-Regression, MLP, RBM, DBN, CRBM, CDBN)
-- [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [stopwords-iso/stopwords-iso](https://github.com/stopwords-iso/stopwords-iso) - All languages stopwords collection
 - [taylorjg/shazizzle](https://github.com/taylorjg/shazizzle) - Experiments with Web Audio API with a view to creating a simplified version of Shazam
@@ -283,6 +282,7 @@
 
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+- [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
