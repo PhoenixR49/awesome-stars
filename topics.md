@@ -140,6 +140,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [windows](#windows)
 
 ## ai 
 
@@ -359,6 +360,7 @@
 
 ## docker 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1087,6 +1089,10 @@
 ## website 
 
 - [digitalmalayali/free-website-privacy-policy-generator](https://github.com/digitalmalayali/free-website-privacy-policy-generator) - A simple, free and open-source web app to generate a generic privacy policy for your website.
+
+## windows 
+
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
 
 ## License
