@@ -135,6 +135,7 @@
 
 ## Kotlin 
 
+- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
