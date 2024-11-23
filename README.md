@@ -80,6 +80,7 @@
 
 ## HTML 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [liuhh02/web-omr](https://github.com/liuhh02/web-omr) - Web-based Optical Music Recognition tool that translates musical notes on monophonic scores to ABC notation and annotates the ABC notes onto the music score to facilitate the process of learning music
 - [digitalmalayali/free-website-privacy-policy-generator](https://github.com/digitalmalayali/free-website-privacy-policy-generator) - A simple, free and open-source web app to generate a generic privacy policy for your website.
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
@@ -103,7 +104,6 @@
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [stopwords-iso/stopwords-iso](https://github.com/stopwords-iso/stopwords-iso) - All languages stopwords collection
 - [taylorjg/shazizzle](https://github.com/taylorjg/shazizzle) - Experiments with Web Audio API with a view to creating a simplified version of Shazam
-- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant
 - [wooorm/dictionaries](https://github.com/wooorm/dictionaries) - Hunspell dictionaries in UTF-8
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
@@ -191,7 +191,6 @@
 - [fwartner/ha-openwakeword-installer](https://github.com/fwartner/ha-openwakeword-installer) - Home Assistant Integration to install openWakeWord´s from fwartner/home-assistant-wakewords-collection
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
@@ -201,6 +200,7 @@
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [shazamio/ShazamIO](https://github.com/shazamio/ShazamIO) - 🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.8+ with asyncio and aiohttp.
+- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [itspoma/audio-fingerprint-identifying-python](https://github.com/itspoma/audio-fingerprint-identifying-python) - The Shazam-similar app, that identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform
 - [bmoquist/Shazam](https://github.com/bmoquist/Shazam) - Music Identification Program based on Shazam's methods
@@ -290,6 +290,7 @@
 
 ## TypeScript 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
