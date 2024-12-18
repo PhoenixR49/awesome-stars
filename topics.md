@@ -958,7 +958,7 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers.
-- [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - Search for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine. Downloading files and images to a local hard drive.
+- [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - AI chat and search for text, news, images and videos using the DuckDuckGo.com search engine.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [IV2FI/DrawBot](https://github.com/IV2FI/DrawBot) - DrawBot lets you draw images taken from the internet on Skribbl.io, Gartic Phone and Paint
