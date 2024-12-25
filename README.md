@@ -189,6 +189,8 @@
 
 ## Python 
 
+- [vasistalodagala/whisper-finetune](https://github.com/vasistalodagala/whisper-finetune) - Fine-tune and evaluate Whisper models for Automatic Speech Recognition (ASR) on custom datasets or datasets from huggingface.
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [fwartner/ha-openwakeword-installer](https://github.com/fwartner/ha-openwakeword-installer) - Home Assistant Integration to install openWakeWord´s from fwartner/home-assistant-wakewords-collection
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
