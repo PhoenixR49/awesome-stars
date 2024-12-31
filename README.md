@@ -79,7 +79,7 @@
 
 ## HTML 
 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [liuhh02/web-omr](https://github.com/liuhh02/web-omr) - Web-based Optical Music Recognition tool that translates musical notes on monophonic scores to ABC notation and annotates the ABC notes onto the music score to facilitate the process of learning music
 - [digitalmalayali/free-website-privacy-policy-generator](https://github.com/digitalmalayali/free-website-privacy-policy-generator) - A simple, free and open-source web app to generate a generic privacy policy for your website.
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
