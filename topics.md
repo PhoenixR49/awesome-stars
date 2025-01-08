@@ -876,7 +876,7 @@
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration & Model to control your smart home using a Local LLM
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [avenger11/HomeOS](https://github.com/avenger11/HomeOS) - This is my dashboard for Home Assistant
 - [avenger11/Apple-HomePlay](https://github.com/avenger11/Apple-HomePlay) - Custom Apple theme and configuration for Home Assistant
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
