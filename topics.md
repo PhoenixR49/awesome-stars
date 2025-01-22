@@ -509,7 +509,6 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [nstudio/nativescript-plugins](https://github.com/nstudio/nativescript-plugins) - @nstudio/nativescript-* plugin workspace.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
@@ -821,6 +820,7 @@
 
 ## others 
 
+- [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder) - Silicon Labs firmware builder
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [bbcelly/murfai_tts](https://github.com/bbcelly/murfai_tts) - The MurfAI TTS component for Home Assistant makes it possible to use the MurfAI API to generate spoken audio from text. This can be used in automations, assistants, scripts, or any other component tha
 - [abrenoch/hyperion-android-grabber](https://github.com/abrenoch/hyperion-android-grabber) - Screen grabber for hyperion
