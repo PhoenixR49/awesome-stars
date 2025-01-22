@@ -31,6 +31,7 @@
 
 ## C 
 
+- [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder) - Silicon Labs firmware builder
 - [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 
