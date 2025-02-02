@@ -525,6 +525,7 @@
 
 ## home-assistant 
 
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - A home assistant generative agent integration based on langchain and langgraph.
 - [kubawolanin/ha-reaper](https://github.com/kubawolanin/ha-reaper) - Reaper DAW custom integration for Home Assistant
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
