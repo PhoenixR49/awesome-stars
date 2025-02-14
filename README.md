@@ -18,6 +18,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -134,6 +135,7 @@
 
 ## Jinja 
 
+- [casse-boubou/addon-rustdesk-server](https://github.com/casse-boubou/addon-rustdesk-server) - RustDesk-Server pour Home Assistant
 - [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 
 ## Jupyter Notebook 
@@ -159,6 +161,10 @@
 - [you-apps/ConnectYou](https://github.com/you-apps/ConnectYou) - Privacy focused contacts and SMS messenger app built with MD3
 - [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
+
+## MDX 
+
+- [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 
 ## Others 
 
