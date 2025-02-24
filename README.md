@@ -147,6 +147,7 @@
 
 ## Kotlin 
 
+- [huggingface/chat-ui-android](https://github.com/huggingface/chat-ui-android) - 
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
