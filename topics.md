@@ -822,6 +822,7 @@
 
 ## others 
 
+- [huggingface/chat-ui-android](https://github.com/huggingface/chat-ui-android) - 
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [casse-boubou/addon-rustdesk-server](https://github.com/casse-boubou/addon-rustdesk-server) - RustDesk-Server pour Home Assistant
 - [gnumpi/esphome_audio](https://github.com/gnumpi/esphome_audio) - Custom audio components for ESPHome
