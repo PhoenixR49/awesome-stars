@@ -199,6 +199,7 @@
 
 ## Python 
 
+- [BlaXun/home_assistant_mistral_ai](https://github.com/BlaXun/home_assistant_mistral_ai) - Mistral AI Integration in Home Assistant
 - [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System
 - [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - A home assistant generative agent integration based on langchain and langgraph.
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
