@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) - 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
@@ -199,6 +200,8 @@
 
 ## Python 
 
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [BlaXun/home_assistant_mistral_ai](https://github.com/BlaXun/home_assistant_mistral_ai) - Mistral AI Integration in Home Assistant
 - [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System
 - [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - A home assistant generative agent integration based on langchain and langgraph.
@@ -278,7 +281,7 @@
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [yezz123/SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account 🛠
 - [pdechandon/holehe](https://github.com/pdechandon/holehe) - 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [cbenning/fussel](https://github.com/cbenning/fussel) - A static photo gallery generator
