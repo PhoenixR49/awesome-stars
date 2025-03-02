@@ -526,7 +526,6 @@
 
 ## home-assistant 
 
-- [BlaXun/home_assistant_mistral_ai](https://github.com/BlaXun/home_assistant_mistral_ai) - Mistral AI Integration in Home Assistant
 - [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - A home assistant generative agent integration based on langchain and langgraph.
 - [kubawolanin/ha-reaper](https://github.com/kubawolanin/ha-reaper) - Reaper DAW custom integration for Home Assistant
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant
