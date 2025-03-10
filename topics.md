@@ -729,6 +729,7 @@
 
 ## music 
 
+- [Thomasevano/musickeeper](https://github.com/Thomasevano/musickeeper) - Manage/Transfer/Extract/Buy your music from music streaming services
 - [shazamio/ShazamIO](https://github.com/shazamio/ShazamIO) - 🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.10+ with asyncio and aiohttp.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
@@ -1150,6 +1151,7 @@
 
 ## svelte 
 
+- [Thomasevano/musickeeper](https://github.com/Thomasevano/musickeeper) - Manage/Transfer/Extract/Buy your music from music streaming services
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -1169,6 +1171,8 @@
 
 ## tailwindcss 
 
+- [Thomasevano/musickeeper](https://github.com/Thomasevano/musickeeper) - Manage/Transfer/Extract/Buy your music from music streaming services
+- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -1189,6 +1193,7 @@
 
 ## typescript 
 
+- [Thomasevano/musickeeper](https://github.com/Thomasevano/musickeeper) - Manage/Transfer/Extract/Buy your music from music streaming services
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
