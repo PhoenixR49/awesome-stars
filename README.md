@@ -177,6 +177,7 @@
 
 ## Others 
 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tjiho/French-tts-model-piper](https://github.com/tjiho/French-tts-model-piper) - 
 - [esphome/micro-wake-word-models](https://github.com/esphome/micro-wake-word-models) - 
 - [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - 👨‍💻 An awesome and curated list of best code-LLM for research.
