@@ -233,7 +233,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
+- [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [kahrendt/microWakeWord](https://github.com/kahrendt/microWakeWord) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
