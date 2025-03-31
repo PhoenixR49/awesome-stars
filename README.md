@@ -33,6 +33,7 @@
 
 ## C 
 
+- [nwagyu/nofrendo](https://github.com/nwagyu/nofrendo) - NES emulator for the NumWorks calculator
 - [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder) - Silicon Labs firmware builder
 - [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
@@ -43,6 +44,9 @@
 
 ## C++ 
 
+- [UpsilonNumworks/Upsilon](https://github.com/UpsilonNumworks/Upsilon) - Upsilon, an OS forked from Omega for your Numworks calculator
+- [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
+- [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega) - Omega 2.0, the next evolution of Epsilon! Now available for your Numworks calculator!
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [gnumpi/esphome_audio](https://github.com/gnumpi/esphome_audio) - Custom audio components for ESPHome
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
