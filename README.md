@@ -74,6 +74,7 @@
 
 ## Dart 
 
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Dockerfile 
