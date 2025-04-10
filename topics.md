@@ -198,6 +198,7 @@
 
 ## android 
 
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
@@ -367,6 +368,7 @@
 
 ## dart 
 
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## data 
@@ -467,6 +469,7 @@
 
 ## flutter 
 
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -765,6 +768,7 @@
 
 ## mobile 
 
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 
 ## mongodb 
