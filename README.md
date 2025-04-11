@@ -210,6 +210,7 @@
 
 ## PHP 
 
+- [R3D2/kirby3-simple-newsletter](https://github.com/R3D2/kirby3-simple-newsletter) - a Toolkit for creating and sending minimal, GDPR-compliant newsletters via the Kirby panel. ⚠ Unfinished and untested!
 - [verbb/social-poster](https://github.com/verbb/social-poster) - A Craft CMS plugin for automatically posting entries to social media.
 - [BlondelSeumo/Social-Media-Marketing-Platform](https://github.com/BlondelSeumo/Social-Media-Marketing-Platform) - Mainly this is a visual drag and drop Flow Builder based chatbot for Facebook Messenger and Instagram DM. It also comprises a feature for auto comment, auto-reply to comment, and private reply for Fac
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
