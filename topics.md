@@ -39,6 +39,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -400,6 +401,10 @@
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
@@ -914,6 +919,7 @@
 
 ## others 
 
+- [R3D2/kirby3-simple-newsletter](https://github.com/R3D2/kirby3-simple-newsletter) - a Toolkit for creating and sending minimal, GDPR-compliant newsletters via the Kirby panel. ⚠ Unfinished and untested!
 - [skykiller099/ArkeryBot](https://github.com/skykiller099/ArkeryBot) - 
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega) - Omega 2.0, the next evolution of Epsilon! Now available for your Numworks calculator!
