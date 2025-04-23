@@ -210,6 +210,7 @@
 
 ## android 
 
+- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
@@ -589,6 +590,7 @@
 
 ## hacktoberfest 
 
+- [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
@@ -689,6 +691,7 @@
 
 ## javascript 
 
+- [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [mdibaiee/Equation](https://github.com/mdibaiee/Equation) - Solve Math expressions, create equations, define operators and constants
