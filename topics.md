@@ -976,6 +976,7 @@
 
 ## others 
 
+- [huggingface/fineweb-2](https://github.com/huggingface/fineweb-2) - 
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [R3D2/kirby3-simple-newsletter](https://github.com/R3D2/kirby3-simple-newsletter) - a Toolkit for creating and sending minimal, GDPR-compliant newsletters via the Kirby panel. ⚠ Unfinished and untested!
 - [skykiller099/ArkeryBot](https://github.com/skykiller099/ArkeryBot) - 
