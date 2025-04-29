@@ -238,6 +238,7 @@
 
 ## api 
 
+- [teddy-vltn/vinted-discord-bot](https://github.com/teddy-vltn/vinted-discord-bot) - No Delay/Zero Delay Discord Bot For Vinted Monitoring. Complete Channel and User Management.  The Bot Adapts To The User Discord Language.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) - 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -291,6 +292,7 @@
 
 ## bot 
 
+- [teddy-vltn/vinted-discord-bot](https://github.com/teddy-vltn/vinted-discord-bot) - No Delay/Zero Delay Discord Bot For Vinted Monitoring. Complete Channel and User Management.  The Bot Adapts To The User Discord Language.
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
 
 ## c-plus-plus 
@@ -436,6 +438,7 @@
 
 ## discord 
 
+- [teddy-vltn/vinted-discord-bot](https://github.com/teddy-vltn/vinted-discord-bot) - No Delay/Zero Delay Discord Bot For Vinted Monitoring. Complete Channel and User Management.  The Bot Adapts To The User Discord Language.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 
 ## django 
@@ -911,6 +914,7 @@
 
 ## nodejs 
 
+- [teddy-vltn/vinted-discord-bot](https://github.com/teddy-vltn/vinted-discord-bot) - No Delay/Zero Delay Discord Bot For Vinted Monitoring. Complete Channel and User Management.  The Bot Adapts To The User Discord Language.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
@@ -989,6 +993,7 @@
 
 ## others 
 
+- [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 - [huggingface/fineweb-2](https://github.com/huggingface/fineweb-2) - 
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [skykiller099/ArkeryBot](https://github.com/skykiller099/ArkeryBot) - 
