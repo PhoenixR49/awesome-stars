@@ -997,6 +997,7 @@
 
 ## others 
 
+- [RosaeNLG/rosaenlg](https://github.com/RosaeNLG/rosaenlg) - RosaeNLG is a Natural Language Generation library for node.js and browser rendering, based on the Pug template engine.
 - [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 - [huggingface/fineweb-2](https://github.com/huggingface/fineweb-2) - 
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
