@@ -128,6 +128,7 @@
 
 ## JavaScript 
 
+- [RosaeNLG/rosaenlg](https://github.com/RosaeNLG/rosaenlg) - RosaeNLG is a Natural Language Generation library for node.js and browser rendering, based on the Pug template engine.
 - [teddy-vltn/vinted-discord-bot](https://github.com/teddy-vltn/vinted-discord-bot) - No Delay/Zero Delay Discord Bot For Vinted Monitoring. Complete Channel and User Management.  The Bot Adapts To The User Discord Language.
 - [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 - [coollabsio/fonts](https://github.com/coollabsio/fonts) - A privacy-friendly drop-in replacement for Google Fonts
