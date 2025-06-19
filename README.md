@@ -129,6 +129,7 @@
 
 ## JavaScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [RosaeNLG/rosaenlg](https://github.com/RosaeNLG/rosaenlg) - RosaeNLG is a Natural Language Generation library for node.js and browser rendering, based on the Pug template engine.
 - [teddy-vltn/vinted-discord-bot](https://github.com/teddy-vltn/vinted-discord-bot) - No Delay/Zero Delay Discord Bot For Vinted Monitoring. Complete Channel and User Management.  The Bot Adapts To The User Discord Language.
 - [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
@@ -412,7 +413,7 @@
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [notclickable-jordan/starbase-80](https://github.com/notclickable-jordan/starbase-80) - A nice Docker homepage
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers( OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [smart-on-fhir/smart-scheduling-links](https://github.com/smart-on-fhir/smart-scheduling-links) - Clinical Appointment Slot Discovery
