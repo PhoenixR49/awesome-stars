@@ -110,6 +110,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 - [liuhh02/web-omr](https://github.com/liuhh02/web-omr) - Web-based Optical Music Recognition tool that translates musical notes on monophonic scores to ABC notation and annotates the ABC notes onto the music score to facilitate the process of learning music
 - [digitalmalayali/free-website-privacy-policy-generator](https://github.com/digitalmalayali/free-website-privacy-policy-generator) - A simple, free and open-source web app to generate a generic privacy policy for your website.
@@ -250,6 +251,8 @@
 
 ## Python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 - [huggingface/fineweb-2](https://github.com/huggingface/fineweb-2) - 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
