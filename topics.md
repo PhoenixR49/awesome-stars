@@ -81,6 +81,7 @@
 - [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -696,6 +697,14 @@
 
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
+## information-gathering 
+
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+- [yezz123/SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account 🛠
+
 ## instagram 
 
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
@@ -1020,7 +1029,7 @@
 
 ## others 
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [RosaeNLG/rosaenlg](https://github.com/RosaeNLG/rosaenlg) - RosaeNLG is a Natural Language Generation library for node.js and browser rendering, based on the Pug template engine.
 - [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 - [huggingface/fineweb-2](https://github.com/huggingface/fineweb-2) - 
