@@ -48,6 +48,7 @@
 
 ## C++ 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [liameno/librengine](https://github.com/liameno/librengine) - Privacy Web Search Engine (not meta, own crawler)
 - [UpsilonNumworks/Upsilon](https://github.com/UpsilonNumworks/Upsilon) - Upsilon, an OS forked from Omega for your Numworks calculator
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
@@ -224,7 +225,7 @@
 - [esphome/micro-wake-word-models](https://github.com/esphome/micro-wake-word-models) - 
 - [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - 👨‍💻 An awesome and curated list of best code-LLM for research.
 - [somiibo/somiibo-microservice-template](https://github.com/somiibo/somiibo-microservice-template) - A free social media automation platform that organically grows your online presence and gets you more followers.
-- [LiterateInk/Pawnote](https://github.com/LiterateInk/Pawnote) - A purrfect API wrapper for PRONOTE.
+- [LiterateInk/Pawnote.js](https://github.com/LiterateInk/Pawnote.js) - A purrfect API wrapper for PRONOTE.
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama
 - [userbradley/BeReal](https://github.com/userbradley/BeReal) - How does BeReal work (Under the hood)
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
