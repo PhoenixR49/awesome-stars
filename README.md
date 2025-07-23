@@ -328,7 +328,7 @@
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers.
 - [johnolafenwa/DeepStack](https://github.com/johnolafenwa/DeepStack) - The World's Leading Cross Platform AI Engine for Edge Devices
 - [Whitelisted1/Dynamic-Discord-Profile-Banner](https://github.com/Whitelisted1/Dynamic-Discord-Profile-Banner) - Displays a Discord User profile for Github's Markdown files
-- [deedy5/ddgs](https://github.com/deedy5/ddgs) - D.D.G.S. | Dux Distributed Global Search. A metasearch library that aggregates results from diverse web search services
+- [deedy5/ddgs](https://github.com/deedy5/ddgs) - DDGS | Dux Distributed Global Search. A metasearch library that aggregates results from diverse web search services
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
