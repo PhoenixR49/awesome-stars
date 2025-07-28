@@ -42,6 +42,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -181,6 +182,7 @@
 
 ## ai 
 
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -454,6 +456,11 @@
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+## developer-tools 
+
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 
 ## development 
 
@@ -823,6 +830,7 @@
 
 ## llm 
 
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Let Home Assistant see!
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -872,6 +880,7 @@
 
 ## markdown 
 
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
