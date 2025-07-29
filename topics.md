@@ -1155,7 +1155,7 @@
 - [Rbillon59/home-assistant-addons](https://github.com/Rbillon59/home-assistant-addons) - Repository of self made addons
 - [drndos/hass-openai-custom-conversation](https://github.com/drndos/hass-openai-custom-conversation) - Conversation support for home assistant using vicuna local llm
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
-- [THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
+- [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 - [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
 - [delphiki/hass-pronote](https://github.com/delphiki/hass-pronote) - Pronote integration for Home Assistant
 - [nextcloud/cookbook](https://github.com/nextcloud/cookbook) - 🍲 A library for all your recipes
