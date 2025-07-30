@@ -928,6 +928,7 @@
 
 ## natural-language-processing 
 
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -954,6 +955,7 @@
 
 ## nlp 
 
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
@@ -1062,6 +1064,7 @@
 
 ## others 
 
+- [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
