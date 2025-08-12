@@ -167,7 +167,6 @@
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
 - [pjaspinski/youtube-dl-card](https://github.com/pjaspinski/youtube-dl-card) - Custom card for HomeAssistant that allows downloading videos using youtube-dl to a remote machine.
 - [BrainJS/brain.js-examples](https://github.com/BrainJS/brain.js-examples) - Brain.js Examples in Typescript and Javascript
-- [SpruceGabriela/snake-the-game](https://github.com/SpruceGabriela/snake-the-game) - A simple JS snake game
 - [cazala/synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
