@@ -82,6 +82,7 @@
 
 ## Dart 
 
+- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
 - [adeeteya/Classipod](https://github.com/adeeteya/Classipod) - A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -127,6 +128,7 @@
 
 ## Java 
 
+- [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [abrenoch/hyperion-android-grabber](https://github.com/abrenoch/hyperion-android-grabber) - Screen grabber for hyperion
@@ -261,6 +263,7 @@
 
 ## Python 
 
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse AI: Leverages Librosa for sonic analysis and AI-powered clustering to create smart, tempo and mood-based playlists within Jellyfin and Navidrome API
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -393,6 +396,7 @@
 
 ## TypeScript 
 
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
