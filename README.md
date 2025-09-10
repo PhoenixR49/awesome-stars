@@ -172,7 +172,7 @@
 - [pjaspinski/youtube-dl-card](https://github.com/pjaspinski/youtube-dl-card) - Custom card for HomeAssistant that allows downloading videos using youtube-dl to a remote machine.
 - [BrainJS/brain.js-examples](https://github.com/BrainJS/brain.js-examples) - Brain.js Examples in Typescript and Javascript
 - [cazala/synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
-- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
+- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - Generate transcripts for audio and video content with a user friendly UI, powered by Open AI's Whisper with automatic translations and download videos automatically with yt-dlp integration
 - [walsh9/videojs-transcript](https://github.com/walsh9/videojs-transcript) - ▶️📃 Interactive transcript plugin for video.js
