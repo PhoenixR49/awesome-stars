@@ -92,7 +92,6 @@
 ## Dockerfile 
 
 - [jdeath/homeassistant-addons](https://github.com/jdeath/homeassistant-addons) - 
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 
 ## Elixir 
@@ -382,6 +381,7 @@
 - [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - Multiple Homeassistant Add-Ons. For more details have a look at the sub-folders.
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
 - [bradsjm/hassio-addons](https://github.com/bradsjm/hassio-addons) - Home Assistant Add-ons
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 
 ## Svelte 
