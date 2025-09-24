@@ -38,7 +38,6 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
-- [data](#data)
 - [data-structures](#data-structures)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -447,10 +446,6 @@
 
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-## data 
-
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
 ## data-structures 
 
