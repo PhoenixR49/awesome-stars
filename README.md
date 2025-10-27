@@ -105,7 +105,7 @@
 
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) - 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
