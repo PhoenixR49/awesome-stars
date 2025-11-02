@@ -184,6 +184,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [xml](#xml)
 - [youtube](#youtube)
 
 ## ai 
@@ -1641,6 +1642,10 @@
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+## xml 
+
+- [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
 
 ## youtube 
 
