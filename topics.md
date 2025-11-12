@@ -1132,6 +1132,7 @@
 
 ## others 
 
+- [browseDNS/CaptiveDNS](https://github.com/browseDNS/CaptiveDNS) - Display a captive portal to other devices on the network
 - [cognitivitydev/Chronal](https://github.com/cognitivitydev/Chronal) - Metronome app for Android
 - [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
