@@ -202,7 +202,6 @@
 
 - [cognitivitydev/Chronal](https://github.com/cognitivitydev/Chronal) - Metronome app for Android
 - [Sam42a/DUNE](https://github.com/Sam42a/DUNE) - Dune is a Jellyfin Android tv Client
-- [tahaak67/Farhan](https://github.com/tahaak67/Farhan) - An Android app to help you with phone addiction.
 - [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) - New stumbler application for contributing data to geolocation services
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [huggingface/chat-ui-android](https://github.com/huggingface/chat-ui-android) - 
