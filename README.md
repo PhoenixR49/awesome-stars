@@ -388,7 +388,7 @@
 
 ## Svelte 
 
-- [Thomasevano/musickeeper](https://github.com/Thomasevano/musickeeper) - Win back control on your music library
+- [Thomasevano/musickeeper](https://github.com/Thomasevano/musickeeper) - win back control on music
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
