@@ -1166,6 +1166,7 @@
 
 ## others 
 
+- [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
 - [browseDNS/CaptiveDNS](https://github.com/browseDNS/CaptiveDNS) - Display a captive portal to other devices on the network
 - [cognitivitydev/Chronal](https://github.com/cognitivitydev/Chronal) - Metronome app for Android
 - [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
