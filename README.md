@@ -24,6 +24,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -264,6 +265,10 @@
 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 
+## PowerShell 
+
+- [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - Multiple Homeassistant Add-Ons. For more details have a look at the sub-folders.
+
 ## Python 
 
 - [cyr-ius/hass-bbox2](https://github.com/cyr-ius/hass-bbox2) - Addon HA for Bouygues Bbox router
@@ -317,7 +322,6 @@
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [OHF-Voice/intents](https://github.com/OHF-Voice/intents) - Intents to be used with Home Assistant
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
-- [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - Multiple Homeassistant Add-Ons. For more details have a look at the sub-folders.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [philipp-luettecke/tiktoktts](https://github.com/philipp-luettecke/tiktoktts) - TikTok TTS custom_component for Home Assistant.
 - [AkA57/liveboxtvuhd](https://github.com/AkA57/liveboxtvuhd) - Livebox TV UHD custom component for Home Assistant
