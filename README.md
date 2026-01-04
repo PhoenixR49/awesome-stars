@@ -24,7 +24,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -267,10 +266,6 @@
 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 
-## PowerShell 
-
-- [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - Multiple Homeassistant Add-Ons. For more details have a look at the sub-folders.
-
 ## Python 
 
 - [cyr-ius/hass-bbox2](https://github.com/cyr-ius/hass-bbox2) - Addon HA for Bouygues Bbox router
@@ -391,6 +386,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+- [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - Multiple Homeassistant Add-Ons. For more details have a look at the sub-folders.
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
 - [bradsjm/hassio-addons](https://github.com/bradsjm/hassio-addons) - Home Assistant Add-ons
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
