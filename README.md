@@ -51,7 +51,7 @@
 ## C++ 
 
 - [browseDNS/CaptiveDNS](https://github.com/browseDNS/CaptiveDNS) - Display a captive portal to other devices on the network
-- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [liameno/librengine](https://github.com/liameno/librengine) - Privacy Web Search Engine (not meta, own crawler)
 - [UpsilonNumworks/Upsilon](https://github.com/UpsilonNumworks/Upsilon) - Upsilon, an OS forked from Omega for your Numworks calculator
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
@@ -114,7 +114,7 @@
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
 ## HTML 
 
@@ -268,6 +268,7 @@
 
 ## Python 
 
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [cyr-ius/hass-bbox2](https://github.com/cyr-ius/hass-bbox2) - Addon HA for Bouygues Bbox router
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs so
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
@@ -424,7 +425,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
