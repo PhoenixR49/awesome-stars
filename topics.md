@@ -214,7 +214,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
@@ -290,7 +290,7 @@
 ## api 
 
 - [teddy-vltn/vinted-discord-bot](https://github.com/teddy-vltn/vinted-discord-bot) - No Delay/Zero Delay Discord Bot For Vinted Monitoring. Complete Channel and User Management.  The Bot Adapts To The User Discord Language.
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) - 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [shazamio/ShazamIO](https://github.com/shazamio/ShazamIO) - 🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.10+ with asyncio and aiohttp.
@@ -518,7 +518,7 @@
 ## design 
 
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
@@ -863,7 +863,7 @@
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
@@ -1321,7 +1321,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 
 ## privacy 
 
@@ -1454,7 +1454,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
@@ -1595,7 +1595,7 @@
 
 ## tailwind 
 
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 
 ## tailwindcss 
 
@@ -1639,7 +1639,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
 - [LiterateInk/Pawnote.js](https://github.com/LiterateInk/Pawnote.js) - A purrfect API wrapper for PRONOTE.
@@ -1654,7 +1654,7 @@
 
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## video 
