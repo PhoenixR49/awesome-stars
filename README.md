@@ -303,7 +303,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [OHF-Voice/micro-wake-word](https://github.com/OHF-Voice/micro-wake-word) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers.
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
