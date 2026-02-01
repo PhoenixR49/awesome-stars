@@ -229,6 +229,7 @@
 
 ## Others 
 
+- [stevelaskaridis/awesome-mobile-llm](https://github.com/stevelaskaridis/awesome-mobile-llm) - Awesome Mobile LLMs
 - [fastender/Fast-Search-Card](https://github.com/fastender/Fast-Search-Card) - A search card for Home Assistant
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 Yet another collection of wordlists
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
