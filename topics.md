@@ -1187,6 +1187,7 @@
 
 ## others 
 
+- [stevelaskaridis/awesome-mobile-llm](https://github.com/stevelaskaridis/awesome-mobile-llm) - Awesome Mobile LLMs
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
 - [browseDNS/CaptiveDNS](https://github.com/browseDNS/CaptiveDNS) - Display a captive portal to other devices on the network
