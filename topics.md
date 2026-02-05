@@ -1034,6 +1034,7 @@
 
 ## music 
 
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs so
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [adeeteya/Classipod](https://github.com/adeeteya/Classipod) - A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.
@@ -1198,6 +1199,7 @@
 
 ## others 
 
+- [anyrxo/protonmail-pro-mcp](https://github.com/anyrxo/protonmail-pro-mcp) - 🌟 The Ultimate ProtonMail MCP by The IImagined Collective - Professional email management with 20+ tools, advanced analytics, and seamless Proton Bridge integration. First-time perfection, every time.
 - [stevelaskaridis/awesome-mobile-llm](https://github.com/stevelaskaridis/awesome-mobile-llm) - Awesome Mobile LLMs
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
