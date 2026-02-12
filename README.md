@@ -370,7 +370,7 @@
 - [rhasspy/hassio-addons](https://github.com/rhasspy/hassio-addons) - Add-ons for Home Assistant's Hass.IO
 - [yezz123/SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account 🛠
 - [pdechandon/holehe](https://github.com/pdechandon/holehe) - 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [cbenning/fussel](https://github.com/cbenning/fussel) - A static photo gallery generator
