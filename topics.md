@@ -64,6 +64,7 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
+- [esp32](#esp32)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -623,6 +624,10 @@
 
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+
+## esp32 
+
+- [HeyWillow/willow](https://github.com/HeyWillow/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 
 ## finance 
 
