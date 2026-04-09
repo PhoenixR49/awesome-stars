@@ -276,7 +276,7 @@
 
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [cyr-ius/hass-bbox2](https://github.com/cyr-ius/hass-bbox2) - Addon HA for Bouygues Bbox router
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs so
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
