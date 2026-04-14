@@ -1261,7 +1261,7 @@
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [taylorjg/shazizzle](https://github.com/taylorjg/shazizzle) - Experiments with Web Audio API with a view to creating a simplified version of Shazam
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant
