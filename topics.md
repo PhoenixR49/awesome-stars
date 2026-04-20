@@ -1218,6 +1218,8 @@
 
 ## others 
 
+- [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
+- [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) - Docker container for HandBrake
 - [anyrxo/protonmail-pro-mcp](https://github.com/anyrxo/protonmail-pro-mcp) - 🌟 The Ultimate ProtonMail MCP by The IImagined Collective - Professional email management with 20+ tools, advanced analytics, and seamless Proton Bridge integration. First-time perfection, every time.
 - [stevelaskaridis/awesome-mobile-llm](https://github.com/stevelaskaridis/awesome-mobile-llm) - Awesome Mobile LLMs
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
