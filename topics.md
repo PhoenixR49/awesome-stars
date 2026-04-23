@@ -194,6 +194,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-assembly](#web-assembly)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -1536,6 +1537,7 @@
 
 ## rust 
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
@@ -1548,6 +1550,7 @@
 
 ## security 
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
@@ -1742,6 +1745,10 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+## web-assembly 
+
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 
 ## webapp 
 
