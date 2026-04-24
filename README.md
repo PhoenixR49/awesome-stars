@@ -209,7 +209,7 @@
 - [cognitivitydev/Chronal](https://github.com/cognitivitydev/Chronal) - Metronome app for Android
 - [Sam42a/DUNE](https://github.com/Sam42a/DUNE) - Dune is a Jellyfin Android tv Client
 - [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) - New stumbler application for contributing data to geolocation services
-- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
+- [DicioTeam/dicio-android](https://github.com/DicioTeam/dicio-android) - Dicio assistant app for Android
 - [huggingface/chat-ui-android](https://github.com/huggingface/chat-ui-android) - 
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
@@ -377,7 +377,7 @@
 - [pdechandon/holehe](https://github.com/pdechandon/holehe) - 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [cbenning/fussel](https://github.com/cbenning/fussel) - A static photo gallery generator
 - [drawbu/drawbot](https://github.com/drawbu/drawbot) - A Pronote notifier discord bot.
 
