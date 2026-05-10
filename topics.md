@@ -615,6 +615,7 @@
 
 ## education 
 
+- [PapillonApp/Papillon](https://github.com/PapillonApp/Papillon) - L'application libre et open source ultime pour gérer toute ta vie scolaire sans compromis.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PapillonApp/papillon-v7](https://github.com/PapillonApp/papillon-v7) - Une alternative open source aux applis de vie scolaire. L'allié de tous les étudiants. Le futur de l'éducation numérique libre et ouverte.
@@ -1531,6 +1532,7 @@
 
 ## react-native 
 
+- [PapillonApp/Papillon](https://github.com/PapillonApp/Papillon) - L'application libre et open source ultime pour gérer toute ta vie scolaire sans compromis.
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -1709,6 +1711,7 @@
 
 ## typescript 
 
+- [PapillonApp/Papillon](https://github.com/PapillonApp/Papillon) - L'application libre et open source ultime pour gérer toute ta vie scolaire sans compromis.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
