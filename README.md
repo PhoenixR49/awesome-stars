@@ -205,7 +205,7 @@
 ## Kotlin 
 
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed scrobbler for Android, Windows & Linux. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. Edit scrobbles, view charts, show Discord Rich Presence and more
 - [cognitivitydev/Chronal](https://github.com/cognitivitydev/Chronal) - Metronome app for Android
 - [Sam42a/DUNE](https://github.com/Sam42a/DUNE) - Dune is a Jellyfin Android tv Client
 - [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) - New stumbler application for contributing data to geolocation services
