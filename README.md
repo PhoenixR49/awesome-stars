@@ -421,6 +421,7 @@
 
 ## TypeScript 
 
+- [reconurge/flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 - [PapillonApp/Papillon](https://github.com/PapillonApp/Papillon) - L'application libre et open source ultime pour gérer toute ta vie scolaire sans compromis.
 - [mcoutaye/Kiekoutsa](https://github.com/mcoutaye/Kiekoutsa) - Kiekoutsa est un jeu de déduction sociale musicale. Chaque joueur ajoute secrètement ses morceaux favoris à une playlist commune. Le but ? Deviner qui a mis le titre en cours de lecture tout en bluffa
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
