@@ -177,7 +177,6 @@
 - [pjaspinski/youtube-dl-card](https://github.com/pjaspinski/youtube-dl-card) - Custom card for HomeAssistant that allows downloading videos using youtube-dl to a remote machine.
 - [BrainJS/brain.js-examples](https://github.com/BrainJS/brain.js-examples) - Brain.js Examples in Typescript and Javascript
 - [cazala/synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - Generate transcripts for audio and video content with a user friendly UI, powered by Open AI's Whisper with automatic translations and download videos automatically with yt-dlp integration
 - [walsh9/videojs-transcript](https://github.com/walsh9/videojs-transcript) - ▶️📃 Interactive transcript plugin for video.js
 - [Whitelisted1/New-Tab-Snake-AI](https://github.com/Whitelisted1/New-Tab-Snake-AI) - An extension that changes your new tab page to Code Bullet's snake AI
@@ -343,7 +342,7 @@
 - [iprak/yahoofinance](https://github.com/iprak/yahoofinance) - Home Assistant component which allows you to get stock updates from Yahoo finance.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
@@ -461,6 +460,7 @@
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
