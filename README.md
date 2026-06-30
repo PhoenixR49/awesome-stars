@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
@@ -432,6 +433,7 @@
 
 ## TypeScript 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [RushB-fr/freekiosk](https://github.com/RushB-fr/freekiosk) - FreeKiosk - Open-Source Android Kiosk Mode & Tablet Lockdown App for Digital Signage, Dashboards, POS & Single-Purpose Devices. Free Alternative to Fully Kiosk
