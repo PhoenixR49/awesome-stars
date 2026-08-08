@@ -26,7 +26,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
-- [Perl](#perl)
 - [Python](#python)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -88,6 +87,7 @@
 
 ## Dart 
 
+- [FlazeIGuess/unitune](https://github.com/FlazeIGuess/unitune) - 
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [akaMrNagar/Mindful](https://github.com/akaMrNagar/Mindful) - Your Ultimate Companion for Focus and Well-being.
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
@@ -117,7 +117,6 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## HTML 
@@ -179,6 +178,7 @@
 - [wooorm/dictionaries](https://github.com/wooorm/dictionaries) - Hunspell dictionaries in UTF-8
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [primaryobjects/lda](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
+- [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - A curated collection of advanced Home Assistant Apps including WhatsApp, Wiki.js, Apache, Nginx, and many more. Managed with Platinum Quality Standards, automated CI/CD, and multi-arch support.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [mustache-dev/Mario-Kart-3.js](https://github.com/mustache-dev/Mario-Kart-3.js) - 
@@ -281,10 +281,6 @@
 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 
-## Perl 
-
-- [FaserF/hassio-addons](https://github.com/FaserF/hassio-addons) - A curated collection of advanced Home Assistant Apps including WhatsApp, Wiki.js, Apache, Nginx, and many more. Managed with Platinum Quality Standards, automated CI/CD, and multi-arch support.
-
 ## Python 
 
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
@@ -379,6 +375,7 @@
 - [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration & Model to control your smart home using a Local LLM
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [sammcj/homeassistant-localai](https://github.com/sammcj/homeassistant-localai) - LocalAI integration component for Home Assistant
 - [drndos/hass-openai-custom-conversation](https://github.com/drndos/hass-openai-custom-conversation) - Conversation support for home assistant using vicuna local llm
