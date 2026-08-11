@@ -27,6 +27,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
@@ -310,7 +311,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System
-- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain English, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [bbcelly/murfai_tts](https://github.com/bbcelly/murfai_tts) - The MurfAI TTS component for Home Assistant makes it possible to use the MurfAI API to generate spoken audio from text. This can be used in automations, assistants, scripts, or any other component tha
@@ -393,6 +394,10 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [cbenning/fussel](https://github.com/cbenning/fussel) - A static photo gallery generator
 - [drawbu/drawbot](https://github.com/drawbu/drawbot) - A Pronote notifier discord bot.
+
+## Ruby 
+
+- [tosdr/ToSBack3](https://github.com/tosdr/ToSBack3) - ToSBack crawls, archives and tracks changes in terms of service and privacy policies. ToSBack3, inspired by EFF's ToSBack, is built in Ruby on Rails, features a web interface.
 
 ## Rust 
 
