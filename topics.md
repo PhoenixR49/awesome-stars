@@ -1281,6 +1281,8 @@
 
 ## others 
 
+- [manjotsc/tvassist_android](https://github.com/manjotsc/tvassist_android) - overlay sidebar to control HA entities from the couch and on‑screen notifications, with a REST receiver.
+- [evanwhitt/hyperion-android-reborn](https://github.com/evanwhitt/hyperion-android-reborn) - Screen grabber for Hyperion / HyperHDR that turns your Android TV or phone into an ambilight source. Android 5.0+ (API 21+), one APK for TV and mobile.
 - [tosdr/ToSBack3](https://github.com/tosdr/ToSBack3) - ToSBack crawls, archives and tracks changes in terms of service and privacy policies. ToSBack3, inspired by EFF's ToSBack, is built in Ruby on Rails, features a web interface.
 - [ha-dashboard/ios-app](https://github.com/ha-dashboard/ios-app) - Native iOS 9 Home Assistant dashboard app for iPad 2 and iPad mini 4
 - [RealDeco/SendspinZero](https://github.com/RealDeco/SendspinZero) - Sendspin Audio Receiver for your Stereo/Amplifier
