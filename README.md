@@ -134,6 +134,7 @@
 
 ## Java 
 
+- [evanwhitt/hyperion-android-reborn](https://github.com/evanwhitt/hyperion-android-reborn) - Screen grabber for Hyperion / HyperHDR that turns your Android TV or phone into an ambilight source. Android 5.0+ (API 21+), one APK for TV and mobile.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [abrenoch/hyperion-android-grabber](https://github.com/abrenoch/hyperion-android-grabber) - Screen grabber for hyperion
@@ -214,6 +215,7 @@
 
 ## Kotlin 
 
+- [manjotsc/tvassist_android](https://github.com/manjotsc/tvassist_android) - overlay sidebar to control HA entities from the couch and on‑screen notifications, with a REST receiver.
 - [digital-grease/fauxx](https://github.com/digital-grease/fauxx) - Data poisoning for your everyday tracking
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
