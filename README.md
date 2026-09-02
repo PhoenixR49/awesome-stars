@@ -172,7 +172,7 @@
 - [mdibaiee/Equation](https://github.com/mdibaiee/Equation) - Solve Math expressions, create equations, define operators and constants
 - [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [junku901/dnn](https://github.com/junku901/dnn) - Deep learning library for node.js. (Includes Logistic-Regression, MLP, RBM, DBN, CRBM, CDBN)
@@ -343,7 +343,7 @@
 - [itspoma/audio-fingerprint-identifying-python](https://github.com/itspoma/audio-fingerprint-identifying-python) - The Shazam-similar app, that identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform
 - [bmoquist/Shazam](https://github.com/bmoquist/Shazam) - Music Identification Program based on Shazam's methods
 - [Zarathustra2/TradeRepublicApi](https://github.com/Zarathustra2/TradeRepublicApi) - Unofficial trade republic API
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [kubawolanin/ha-reaper](https://github.com/kubawolanin/ha-reaper) - Reaper DAW custom integration for Home Assistant
