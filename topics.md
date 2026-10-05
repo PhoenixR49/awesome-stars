@@ -1322,6 +1322,7 @@
 
 ## others 
 
+- [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [manjotsc/tvassist_android](https://github.com/manjotsc/tvassist_android) - overlay sidebar to control HA entities from the couch and on‑screen notifications, with a REST receiver.
