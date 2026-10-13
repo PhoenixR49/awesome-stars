@@ -774,7 +774,7 @@
 
 ## generative-ai 
 
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
@@ -1044,7 +1044,7 @@
 
 ## llm 
 
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1261,7 +1261,7 @@
 
 - [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) - A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Scree
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [akaMrNagar/Mindful](https://github.com/akaMrNagar/Mindful) - Your Ultimate Companion for Focus and Well-being.
