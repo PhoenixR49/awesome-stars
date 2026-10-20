@@ -114,7 +114,7 @@
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [lissy93/who-dat](https://github.com/lissy93/who-dat) - 🔎 A really complete domain lookup (RDAP + WHOIS) API for maximum TLD support
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [jxlarrea/voice-satellite-card-integration](https://github.com/jxlarrea/voice-satellite-card-integration) - Voice Satellite turns any tablet, phone, or browser into a hands-free voice assistant for Home Assistant
@@ -275,7 +276,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [verbb/social-poster](https://github.com/verbb/social-poster) - A Craft CMS plugin for posting entries to connected social accounts.
 - [BlondelSeumo/Social-Media-Marketing-Platform](https://github.com/BlondelSeumo/Social-Media-Marketing-Platform) - Mainly this is a visual drag and drop Flow Builder based chatbot for Facebook Messenger and Instagram DM. It also comprises a feature for auto comment, auto-reply to comment, and private reply for Fac
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [mosparo/mosparo](https://github.com/mosparo/mosparo) - The modern spam protection. Protects your forms from spam by simply checking the content. Open source, Free to use, Accessible, and Self-Hosted.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a all-in-one solution for managing your home bar
@@ -319,7 +320,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [ksheumaker/homeassistant-apsystems_ecur](https://github.com/ksheumaker/homeassistant-apsystems_ecur) - Home Assistant custom component for local querying of APSystems ECU-R Solar System
-- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [bbcelly/murfai_tts](https://github.com/bbcelly/murfai_tts) - The MurfAI TTS component for Home Assistant makes it possible to use the MurfAI API to generate spoken audio from text. This can be used in automations, assistants, scripts, or any other component tha
@@ -330,7 +331,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
