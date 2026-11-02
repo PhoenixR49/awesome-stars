@@ -198,7 +198,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [darkterminal/og-image-rest-generator](https://github.com/darkterminal/og-image-rest-generator) - OG:IMAGE REST Generator is a free and powerful tool that simplifies the process of generating Open Graph images for your website or application.
 - [sergey-pimenov/awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation) - A list of awesome web animation libraries, books, apps etc.
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [statsig-io/statuspage](https://github.com/statsig-io/statuspage) - A simple, zero-dependency, pure js/html status page based on GitHub Pages and Actions.
 
 ## Jinja 
@@ -281,7 +281,6 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a all-in-one solution for managing your home bar
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [daledavies/jump](https://github.com/daledavies/jump) - Jump is a self-hosted startpage and real-time status page for your server designed to be simple, stylish, fast and secure.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 
@@ -520,6 +519,7 @@
 - [bokub/home-assistant-extension](https://github.com/bokub/home-assistant-extension) - 📌 Home Assistant browser extension
 - [miroir-os/gabin](https://github.com/miroir-os/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 
 
 ## License
