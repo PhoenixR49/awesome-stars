@@ -15,6 +15,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [api](#api)
@@ -341,6 +342,15 @@
 - [you-apps/ConnectYou](https://github.com/you-apps/ConnectYou) - Privacy focused contacts and SMS messenger app built with MD3
 - [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
+
+## android-app 
+
+- [RushB-fr/freekiosk](https://github.com/RushB-fr/freekiosk) - FreeKiosk - Open-Source Android Kiosk Mode & Tablet Lockdown App for Digital Signage, Dashboards, POS & Single-Purpose Devices. Free Alternative to Fully Kiosk
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
+- [akaMrNagar/Mindful](https://github.com/akaMrNagar/Mindful) - Your Ultimate Companion for Focus and Well-being.
+- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
+- [adeeteya/Classipod](https://github.com/adeeteya/Classipod) - A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.
+- [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 
 ## angular 
 
@@ -1338,7 +1348,7 @@
 
 - [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit) - Exploit chain for PS5 7.00 - 13.60
 - [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [manjotsc/tvassist_android](https://github.com/manjotsc/tvassist_android) - overlay sidebar to control HA entities from the couch and on‑screen notifications, with a REST receiver.
 - [evanwhitt/hyperion-android-reborn](https://github.com/evanwhitt/hyperion-android-reborn) - Screen grabber for Hyperion / HyperHDR that turns your Android TV or phone into an ambilight source. Android 5.0+ (API 21+), one APK for TV and mobile.
