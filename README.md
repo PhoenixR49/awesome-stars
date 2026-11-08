@@ -290,6 +290,8 @@
 
 ## Python 
 
+- [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Experimental support for many TTS/STT LLMs wrapped in a Wyoming API for consumption via Homeassistant
+- [conorod1992/speaker-recognition](https://github.com/conorod1992/speaker-recognition) - 🎙️ Speaker recognition service for Home Assistant using voice embeddings - train on voice samples and identify speakers.
 - [SnarfNL/HA_MistralAI](https://github.com/SnarfNL/HA_MistralAI) - Home Assistant custom integration — Mistral AI as conversation agent and Voxtral as speech-to-text engine.  ⚠️ Please note this is not an officially supported integration and is not affiliated with Mi
 - [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
@@ -448,6 +450,7 @@
 
 ## TypeScript 
 
+- [ni-c/osm-mcp](https://github.com/ni-c/osm-mcp) - MCP server for OpenStreetMap: geocoding, walking/driving/cycling distances, route optimization, isochrones and POI search
 - [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [liketrek/TREK](https://github.com/liketrek/TREK) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routin
@@ -462,7 +465,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [aws-samples/sample-mobile-ai-assistant](https://github.com/aws-samples/sample-mobile-ai-assistant) - A lightning-fast, cross-platform mobile AI Assistant App built with React Native.
-- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
+- [leinelissen/fintunes](https://github.com/leinelissen/fintunes) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
