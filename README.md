@@ -400,7 +400,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
-- [cbenning/fussel](https://github.com/cbenning/fussel) - A static photo gallery generator
+- [cbenning/fussel](https://github.com/cbenning/fussel) - Static photo gallery generator with EXIF info, face tag overlays, watermarking and Docker support
 - [drawbu/drawbot](https://github.com/drawbu/drawbot) - A Pronote notifier discord bot.
 
 ## Ruby 
