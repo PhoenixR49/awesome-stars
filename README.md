@@ -290,6 +290,7 @@
 
 ## Python 
 
+- [OHF-Voice/wyoming-faster-whisper](https://github.com/OHF-Voice/wyoming-faster-whisper) - Wyoming protocol server for faster whisper speech to text system
 - [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Experimental support for many TTS/STT LLMs wrapped in a Wyoming API for consumption via Homeassistant
 - [conorod1992/speaker-recognition](https://github.com/conorod1992/speaker-recognition) - 🎙️ Speaker recognition service for Home Assistant using voice embeddings - train on voice samples and identify speakers.
 - [SnarfNL/HA_MistralAI](https://github.com/SnarfNL/HA_MistralAI) - Home Assistant custom integration — Mistral AI as conversation agent and Voxtral as speech-to-text engine.  ⚠️ Please note this is not an officially supported integration and is not affiliated with Mi
