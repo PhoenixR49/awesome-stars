@@ -290,6 +290,7 @@
 
 ## Python 
 
+- [johnnyh1975/ha_roomba_plus](https://github.com/johnnyh1975/ha_roomba_plus) - Platinum-quality Home Assistant custom integration for iRobot Roomba & Braava — local MQTT, no cloud required, 100+ entities
 - [OHF-Voice/wyoming-faster-whisper](https://github.com/OHF-Voice/wyoming-faster-whisper) - Wyoming protocol server for faster whisper speech to text system
 - [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Experimental support for many TTS/STT LLMs wrapped in a Wyoming API for consumption via Homeassistant
 - [conorod1992/speaker-recognition](https://github.com/conorod1992/speaker-recognition) - 🎙️ Speaker recognition service for Home Assistant using voice embeddings - train on voice samples and identify speakers.
@@ -451,6 +452,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ni-c/osm-mcp](https://github.com/ni-c/osm-mcp) - MCP server for OpenStreetMap: geocoding, walking/driving/cycling distances, route optimization, isochrones and POI search
 - [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
