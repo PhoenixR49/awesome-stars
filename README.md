@@ -138,7 +138,6 @@
 
 - [evanwhitt/hyperion-android-reborn](https://github.com/evanwhitt/hyperion-android-reborn) - Screen grabber for Hyperion / HyperHDR that turns your Android TV or phone into an ambilight source. Android 5.0+ (API 21+), one APK for TV and mobile.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
-- [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [abrenoch/hyperion-android-grabber](https://github.com/abrenoch/hyperion-android-grabber) - Screen grabber for hyperion
 - [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
@@ -290,6 +289,7 @@
 
 ## Python 
 
+- [HAL-XP/mcp-pronotes](https://github.com/HAL-XP/mcp-pronotes) - MCP server for Pronotes (French school platform) — grades, timetables, homework, absences
 - [johnnyh1975/ha_roomba_plus](https://github.com/johnnyh1975/ha_roomba_plus) - Platinum-quality Home Assistant custom integration for iRobot Roomba & Braava — local MQTT, no cloud required, 100+ entities
 - [OHF-Voice/wyoming-faster-whisper](https://github.com/OHF-Voice/wyoming-faster-whisper) - Wyoming protocol server for faster whisper speech to text system
 - [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Experimental support for many TTS/STT LLMs wrapped in a Wyoming API for consumption via Homeassistant
@@ -452,6 +452,7 @@
 
 ## TypeScript 
 
+- [jeffc/hassmic](https://github.com/jeffc/hassmic) - An application for Home Assistant that allows you to use an android device as a voice assist satellite
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ni-c/osm-mcp](https://github.com/ni-c/osm-mcp) - MCP server for OpenStreetMap: geocoding, walking/driving/cycling distances, route optimization, isochrones and POI search
 - [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat
