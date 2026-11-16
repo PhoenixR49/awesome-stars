@@ -332,7 +332,6 @@
 - [adeeteya/Classipod](https://github.com/adeeteya/Classipod) - A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.
 - [DicioTeam/dicio-android](https://github.com/DicioTeam/dicio-android) - Dicio assistant app for Android
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
-- [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -970,7 +969,6 @@
 
 ## instagram 
 
-- [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [yezz123/SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account 🛠
@@ -1372,6 +1370,8 @@
 
 ## others 
 
+- [HAL-XP/mcp-pronotes](https://github.com/HAL-XP/mcp-pronotes) - MCP server for Pronotes (French school platform) — grades, timetables, homework, absences
+- [jeffc/hassmic](https://github.com/jeffc/hassmic) - An application for Home Assistant that allows you to use an android device as a voice assist satellite
 - [OHF-Voice/wyoming-faster-whisper](https://github.com/OHF-Voice/wyoming-faster-whisper) - Wyoming protocol server for faster whisper speech to text system
 - [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm) - Experimental support for many TTS/STT LLMs wrapped in a Wyoming API for consumption via Homeassistant
 - [conorod1992/speaker-recognition](https://github.com/conorod1992/speaker-recognition) - 🎙️ Speaker recognition service for Home Assistant using voice embeddings - train on voice samples and identify speakers.
