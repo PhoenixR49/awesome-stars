@@ -1420,7 +1420,7 @@
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [skykiller099/ArkeryBot](https://github.com/skykiller099/ArkeryBot) - 
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
-- [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega) - Omega 2.0, the next evolution of Epsilon! Now available for your Numworks calculator!
+- [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega) - Omega 2.1, the next evolution of Epsilon! Now available for your Numworks calculator!
 - [nwagyu/nofrendo](https://github.com/nwagyu/nofrendo) - NES emulator for the NumWorks calculator
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
@@ -1465,7 +1465,7 @@
 - [jdeath/homeassistant-addons](https://github.com/jdeath/homeassistant-addons) - 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI
-- [miroir-os/gabin](https://github.com/miroir-os/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
+- [miroir-labs/gabin](https://github.com/miroir-labs/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [mustache-dev/Mario-Kart-3.js](https://github.com/mustache-dev/Mario-Kart-3.js) - 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
